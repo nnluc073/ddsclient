@@ -64,6 +64,11 @@ through github.com. Please check out http://ddclient.net
         phuta.vinaddns.com
 
 -------------------------------------------------------------------------------
+## RUN:
+
+    sudo systemctl enable ddclient && sudo systemctl start ddclient && sudo systemctl status ddclient
+
+-------------------------------------------------------------------------------
 ## TROUBLESHOOTING:
 
   1. enable debugging and verbose messages.
